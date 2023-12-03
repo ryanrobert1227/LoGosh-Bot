@@ -1,0 +1,438 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Ent Antigo",
+      "att": ["Defesa:"],
+      "tier": 1,
+      "type": "Armor"
+    },
+    {
+      "id": 2,
+      "name": "Fada das Flores",
+      "att": ["HP:"],
+      "tier": 1,
+      "type": "Armor"
+    },
+    {
+      "id": 3,
+      "name": "Goro",
+      "att": ["Reflect Damage:"],
+      "tier": 1,
+      "type": "Armor"
+    },
+    {
+      "id": 4,
+      "name": "Guerreiro Lobisomem",
+      "att": ["ATK to Monster: ", "ATK to Monster: %"],
+      "tier": 1,
+      "type": "Armor"
+    },
+    {
+      "id": 5,
+      "name": "Morcego da Neve",
+      "att": ["Life Steal:"],
+      "tier": 1,
+      "type": "Armor"
+    },
+    {
+      "id": 6,
+      "name": "Porco-Folha",
+      "att": ["HP Recovery: "],
+      "tier": 1,
+      "type": "Armor"
+    },
+    {
+      "id": 7,
+      "name": "Theros",
+      "att": ["Final Damage: "],
+      "tier": 1,
+      "type": "Armor"
+    },
+    {
+      "id": 8,
+      "name": "Ás Ogro",
+      "att": ["Reflect Damage: ", "Reflection Rate: %"],
+      "tier": 1,
+      "type": "Armor"
+    },
+    {
+      "id": 9,
+      "name": "Margaret",
+      "att": ["Crit. Rate: %"],
+      "tier": 1,
+      "type": "Armor"
+    },
+    {
+      "id": 10,
+      "name": "Nympha",
+      "att": ["Life Steal:", "DANOx: %"],
+      "tier": 1,
+      "type": "Armor"
+    },
+    {
+      "id": 11,
+      "name": "Doris",
+      "att": ["Ignore Defs: %", "Crit. Resist: %", "All Att: %"],
+      "tier": 1,
+      "type": "Armor"
+    },
+    {
+      "id": 12,
+      "name": "Amaterasu",
+      "att": ["DANOx: %", "Accuracy: %", "HP: %"],
+      "tier": 1,
+      "type": "Armor"
+    },
+    {
+      "id": 13,
+      "name": "Empregada Guaxinim",
+      "att": ["HP:"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 14,
+      "name": "Guaxinim Mágico",
+      "att": ["HP:"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 15,
+      "name": "Cristal Negro",
+      "att": ["Final Damage Reduction:"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 16,
+      "name": "Dríade Invernal",
+      "att": ["Final Damage: "],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 17,
+      "name": "Espadachim de Riverrun",
+      "att": ["Attack To Bosses: ", "DMG To Boss: %"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 18,
+      "name": "Ás Bode",
+      "att": ["Life Steal:"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 19,
+      "name": "Ogro Derr",
+      "att": ["Reflect Damage: "],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 20,
+      "name": "Granny",
+      "att": ["Reflect Damage: %", "HP: %", "Crit. Resist: %"],
+      "tier": 4,
+      "type": "Armor"
+    },
+    {
+      "id": 21,
+      "name": "Ás Bode Gelado",
+      "att": ["DANOx: %"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 22,
+      "name": "Gato Preto",
+      "att": ["Crit. Rate: %", "Accuracy: %"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 23,
+      "name": "Poeira Estelar",
+      "att": ["Dodge: %", "Crit. Rate: %"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 24,
+      "name": "Guarda de Metal",
+      "att": ["Life Steal: %"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 25,
+      "name": "Ogg",
+      "att": ["Block Rate: %"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 26,
+      "name": "Fardis",
+      "att": ["DMG to Targets with Debuffs: %"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 27,
+      "name": "Vanas",
+      "att": ["Ignore Defs: %"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 28,
+      "name": "Yuni",
+      "att": ["Life Steal: %", "Crit. Rate: %"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 29,
+      "name": "Estrid",
+      "att": ["Healing Done: %", "HP: %"],
+      "tier": 2,
+      "type": "Armor"
+    },
+    {
+      "id": 30,
+      "name": "Luna",
+      "att": ["Crit. Damage: %"],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 31,
+      "name": "Gagir",
+      "att": ["DANOx: %", "Ignore Defs: %", "Life Steal: %"],
+      "tier": 4,
+      "type": "Armor"
+    },
+    {
+      "id": 32,
+      "name": "Guaxinim de Nove Caudas",
+      "att": ["HP:"],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 33,
+      "name": "Kidd",
+      "att": ["INT/STR: "],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 34,
+      "name": "Caminhante do Vento",
+      "att": ["WIL/AGI: "],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 35,
+      "name": "Urso de Dreadmaw",
+      "att": ["VIT: "],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 36,
+      "name": "Freya",
+      "att": ["Crit. Resist: %", "DANOx: %"],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 37,
+      "name": "Veluriyam",
+      "att": ["Healing Done: %", "Crit. Resist: %"],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 38,
+      "name": "Drakken",
+      "att": ["Reflection Rate: %", "HP: %"],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 39,
+      "name": "Dexter",
+      "att": ["HP: %", "ATK: %"],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 40,
+      "name": "Tamamo-no-Mae",
+      "att": ["Accuracy: %", "DANOx: %", "Crit. Resist: %"],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 41,
+      "name": "Ella",
+      "att": ["Dodge: %"],
+      "tier": 3,
+      "type": "Armor"
+    },
+    { "id": 42, "name": "Senhime", "att": [], "tier": 2, "type": "Armor" },
+    { "id": 43, "name": "Mina", "att": [], "tier": 3, "type": "Armor" },
+    {
+      "id": 44,
+      "name": "Sakura da Sorte",
+      "att": [],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 45,
+      "name": "Mielita",
+      "att": ["Ignore Defs: %", "DANOx: %"],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 46,
+      "name": "Stephen",
+      "att": ["DMG to Targets with Debuffs: %", "DANOx: %", "ATK: %"],
+      "tier": 4,
+      "type": "Armor"
+    },
+    {
+      "id": 47,
+      "name": "Sumon",
+      "att": ["ATK: %", "Crit. Damage: %", "Crit. Rate: %"],
+      "tier": 4,
+      "type": "Armor"
+    },
+    {
+      "id": 48,
+      "name": "Primavera",
+      "att": ["Debuff Resistance: %", "DANOx: %"],
+      "tier": 4,
+      "type": "Armor"
+    },
+    {
+      "id": 49,
+      "name": "Aquarius",
+      "att": ["Life Steal: %", "DANOx: %"],
+      "tier": 4,
+      "type": "Armor"
+    },
+    {
+      "id": 50,
+      "name": "Catherine",
+      "att": ["Dodge: %", "DANOx: %"],
+      "tier": 4,
+      "type": "Armor"
+    },
+    {
+      "id": 51,
+      "name": "Loras",
+      "att": ["DMG To Boss: %", "Crit. Rate: %", "Crit. Damage: %"],
+      "tier": 4,
+      "type": "Armor"
+    },
+    {
+      "id": 52,
+      "name": "Goblin Demônio",
+      "att": ["DMG to Targets with High HP: %", "Accuracy: %", "HP: %"],
+      "tier": 5,
+      "type": "Armor"
+    },
+    {
+      "id": 53,
+      "name": "Garota de Copas",
+      "att": ["Crit. Rate: %", "DANOx: %", "HP: %", "Execute Damage: %"],
+      "tier": 5,
+      "type": "Armor"
+    },
+    {
+      "id": 54,
+      "name": "Angel Heart",
+      "att": [
+        "Crit. Resist: %",
+        "Crit. Damage Reduction: %",
+        "Dodge: %",
+        "DANOx: %",
+        "HP: %"
+      ],
+      "tier": 5,
+      "type": "Armor"
+    },
+    {
+      "id": 55,
+      "name": "Octa-Pesadelo",
+      "att": ["Dodge: %", "DANOx: %", "HP: %"],
+      "tier": 5,
+      "type": "Armor"
+    },
+    {
+      "id": 56,
+      "name": "Gatinho Mágico",
+      "att": ["Block Rate: %", "Dodge: %", "DANOx: %"],
+      "tier": 5,
+      "type": "Armor"
+    },
+    {
+      "id": 57,
+      "name": "Alpha",
+      "att": ["Block Rate: %", "DEF: %", "HP: %"],
+      "tier": 5,
+      "type": "Armor"
+    },
+    {
+      "id": 58,
+      "name": "Senya",
+      "att": ["Ignore Defs: %", "HP: %", "DANOx: %", "Accuracy: %"],
+      "tier": 5,
+      "type": "Armor"
+    },
+    {
+      "id": 59,
+      "name": "Grey",
+      "att": ["HP: %", "All Att: %"],
+      "tier": 4,
+      "type": "Armor"
+    },
+    {
+      "id": 60,
+      "name": "Mina",
+      "att": ["DANOx: %", "Boss Damage Reduction: %"],
+      "tier": 3,
+      "type": "Armor"
+    },
+    {
+      "id": 65,
+      "name": "O Sexto Anjo",
+      "att": [
+        "Ignore Defs: %",
+        "DANOx: %",
+        "ATK: %",
+        "HP: %",
+        "Crit. Damage: %"
+      ],
+      "tier": 4,
+      "type": "Armor"
+    },
+    {
+      "id": 67,
+      "name": "Mirajane",
+      "att": ["Execute Damage: %", "Accuracy: %", "DANOx: %"],
+      "tier": 4,
+      "type": "Armor"
+    }
+  ]
+}
